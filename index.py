@@ -1,1 +1,1 @@
-print("helo")
+import pygame
